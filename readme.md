@@ -2,7 +2,7 @@
 
 ## Daftar Isi Tugas Selama 1 Semester
 
-[Tugas 1](https://github.com/asrulabdullah99/data_mining#decision-tree)
+[Decision Tree](https://github.com/asrulabdullah99/data_mining#decision-tree)
 
 ## Decision Tree
 
