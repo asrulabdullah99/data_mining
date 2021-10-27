@@ -7,11 +7,11 @@
 
 ## Tugas 1
 
-- [ X ] Pengerjaan Tugas Selama 1 Pekan / Ahad
-- [ X ] Pengerjaan Secara Berkelompok dengan 3 - 4 orang / kelompok
-- [ X ] Dataset
-- [ X ] Contoh Pengerjaan Sudah diunggah di Github
-- [ X ] File ipnyb (Jupyter Notebook / Google Colab) dikumpulkan melalui link ini
+- [x] Pengerjaan Tugas Selama 1 Pekan / Ahad
+- [x] Pengerjaan Secara Berkelompok dengan 3 - 4 orang / kelompok
+- [x] Dataset
+- [x] Contoh Pengerjaan Sudah diunggah di Github
+- [x] File ipnyb (Jupyter Notebook / Google Colab) dikumpulkan melalui link ini
 
 ## Tugas 2
 
