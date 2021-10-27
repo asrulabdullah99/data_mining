@@ -10,7 +10,7 @@
 - [x] Pengerjaan Tugas Selama 1 Pekan / Ahad
 - [x] Pengerjaan Secara Berkelompok dengan 3 - 4 orang / kelompok
 - [x] Dataset [Marital](https://raw.githubusercontent.com/asrulabdullah99/data_mining/master/dataset_decision/Dataset_Tugas.csv)
-- [x] Contoh Pengerjaan Sudah diunggah di Github
+- [x] Contoh Pengerjaan Sudah diunggah di Github [Jupyter Notebook](https://github.com/asrulabdullah99/data_mining/blob/master/dataset_decision/DataMining-Example.ipynb)
 - [x] File ipnyb (Jupyter Notebook / Google Colab) dikumpulkan melalui link ini
 
 ## Tugas 2
