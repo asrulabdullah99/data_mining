@@ -4,6 +4,7 @@
 
 - [Tugas 1](https://github.com/asrulabdullah99/data_mining#tugas-1)
 - [Tugas 2](https://github.com/asrulabdullah99/data_mining#tugas-2)
+- [Tugas 3](https://github.com/asrulabdullah99/data_mining#tugas-3)
 
 ## Tugas 1
 
