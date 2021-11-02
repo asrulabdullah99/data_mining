@@ -15,6 +15,11 @@
 
 ## Tugas 2
 
+- [x] Pengerjaan Tugas Selama 1 Pekan / Ahad
+- [x] Contoh penerapan visualisasi di Jupyter Notebook / Google Colab dapat dilihat pada link berikut [Contoh](https://github.com/asrulabdullah99/data_mining/blob/master/visualisasi/visualisasi.ipynb)
+- [x] Tugas ada di dalam materi yang sudah saya unggah di Github. Silahkan kunjungi [Github](https://drive.google.com/file/d/1x8toxj44zQ_u3Wyhg_0wRnCIH_ZalOnb/view)
+- [x] File ipnyb (Jupyter Notebook / Google Colab) yang sudah dijadikan pdf dikumpulkan melalui link [Tugas](https://forms.gle/KfRqf85bb44PHctL9)
+
 ## Tugas 3
 
 ## Tugas 4
