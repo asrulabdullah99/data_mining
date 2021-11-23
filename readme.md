@@ -4,7 +4,7 @@
 
 - [Tugas 1](https://github.com/asrulabdullah99/data_mining#tugas-1)
 - [Tugas 2](https://github.com/asrulabdullah99/data_mining#tugas-2)
-- [Tugas 3](https://github.com/asrulabdullah99/data_mining#tugas-3)
+- [UTS](https://github.com/asrulabdullah99/data_mining#uts)
 
 ## Tugas 1
 
@@ -21,7 +21,10 @@
 - [x] Tugas ada di dalam materi yang sudah saya unggah di Github. Silahkan kunjungi [Github](https://drive.google.com/file/d/1x8toxj44zQ_u3Wyhg_0wRnCIH_ZalOnb/view)
 - [x] File ipnyb (Jupyter Notebook / Google Colab) yang sudah dijadikan pdf dikumpulkan melalui link [Tugas](https://forms.gle/KbAAvhgzco12LjCj7)
 
-## Tugas 3
+## UTS
+
+- [x] Deadline pengumpulan UTS Data Mining Kelas 6 pukul 16.00 WIB
+- [x] Upload jawaban berupa file txt di [UTS] (https://forms.gle/veGn8vEYHWRa66Yz9)
 
 ## Tugas 4
 
