@@ -24,4 +24,4 @@
 ## UTS
 
 - [x] Deadline pengumpulan UTS Data Mining Kelas 6 pukul 16.00 WIB
-- [x] Upload jawaban berupa file txt di [UTS] (https://forms.gle/veGn8vEYHWRa66Yz9)
+- [x] Upload jawaban berupa file text di [UTS](https://forms.gle/veGn8vEYHWRa66Yz9)
