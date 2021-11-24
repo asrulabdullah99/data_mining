@@ -24,4 +24,5 @@
 ## UTS
 
 - [x] Deadline pengumpulan UTS Data Mining Kelas 6 pukul 16.00 WIB
+- [x] Deadline pengumpulan UTS Data Mining Kelas 8 pukul 06.00 WIB (25 November 2021)
 - [x] Upload jawaban berupa file text di [UTS](https://forms.gle/veGn8vEYHWRa66Yz9)
